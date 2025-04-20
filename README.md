@@ -35,8 +35,8 @@ newsintel/
 
 ### 1. Clone or download the repo
 ```bash
-git clone https://github.com/JasonLn0711/newsintel.git
-cd newsintel
+git clone https://github.com/JasonLn0711/NLP_NewsIntel.git
+cd NLP_NewsIntel
 ```
 
 ### 2. Create and activate a virtual environment
