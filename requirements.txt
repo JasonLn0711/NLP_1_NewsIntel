@@ -1,0 +1,11 @@
+# requirements.txt
+spacy>=3.0.0
+textblob>=0.17.1
+requests>=2.25.1
+beautifulsoup4>=4.9.3
+matplotlib>=3.3.4
+wordcloud>=1.8.1
+
+# Needed to download TextBlob sentiment resources
+# Run: python -m textblob.download_corpora
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0-py3-none-any.whl
