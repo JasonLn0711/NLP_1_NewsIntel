@@ -35,7 +35,7 @@ newsintel/
 
 ### 1. Clone or download the repo
 ```bash
-git clone https://github.com/JasonLn0711/NLP_NewsIntel.git
+git clone https://github.com/JasonLn0711/NLP_1_NewsIntel.git
 cd NLP_NewsIntel
 ```
 
